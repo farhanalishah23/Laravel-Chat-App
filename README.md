@@ -42,8 +42,8 @@ A modern real-time chat application built using **Laravel 11**, **Livewire**, **
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/chatapp-laravel11.git
-cd chatapp-laravel11
+git clone https://github.com/farhanalishah23/Laravel-Chat-App.git
+cd Laravel-Chat-App
 ```
 
 ### 2️⃣ Install Dependencies
@@ -92,10 +92,6 @@ php artisan reverb:start
 
 ---
 
-## 📸 Screenshots
-
-> (Add your app screenshots here: login page, chat interface, etc.)
-
 ---
 
 ## 📡 How Real-time Works?
@@ -118,10 +114,3 @@ php artisan reverb:start
 
 Open-source project — feel free to modify and use!
 
----
-
-## 🙋‍♂️ Author
-
-**Farhan Ali Shah**  
-Connect: [LinkedIn](https://linkedin.com/in/your-profile)  
-GitHub: [your-username](https://github.com/your-username)
